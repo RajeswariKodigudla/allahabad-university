@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/allahabad-university/static/css/main.12c23116.css",
-    "main.js": "/allahabad-university/static/js/main.73820769.js",
+    "main.css": "/allahabad-university/static/css/main.35c91937.css",
+    "main.js": "/allahabad-university/static/js/main.a10626d9.js",
     "static/media/slide4.jpg": "/allahabad-university/static/media/slide4.f1a493f654076d77e3e8.jpg",
     "static/media/slide1.jpg": "/allahabad-university/static/media/slide1.96f7749b42154893952d.jpg",
     "static/media/slide3.jpg": "/allahabad-university/static/media/slide3.510c7e02d3133179d4ae.jpg",
     "static/media/slide2.jpg": "/allahabad-university/static/media/slide2.e1af9a07691085077aef.jpg",
     "index.html": "/allahabad-university/index.html",
-    "main.12c23116.css.map": "/allahabad-university/static/css/main.12c23116.css.map",
-    "main.73820769.js.map": "/allahabad-university/static/js/main.73820769.js.map"
+    "main.35c91937.css.map": "/allahabad-university/static/css/main.35c91937.css.map",
+    "main.a10626d9.js.map": "/allahabad-university/static/js/main.a10626d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c23116.css",
-    "static/js/main.73820769.js"
+    "static/css/main.35c91937.css",
+    "static/js/main.a10626d9.js"
   ]
 }
